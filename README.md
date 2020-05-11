@@ -1,10 +1,10 @@
 # Game-Development
 This repository contains 2 games and 1 emulater(developed on unity) that I designed evaluation for Introduction to game development by MICHIGAN STATE UNIVERSITY
-<p>This is just for reference and to showcase my skill Dont try to copy these assignmensts if you are doing the course.</p>
+<p>This is just for reference and to showcase my skill ,Have some fun.</p>
 <p>Thank you</p>  
 
 # Game 1(Roller Madness)
-<p><b>To play <a href = "#">click here</a></b></p>
+<p><b>To play <a href = "https://htmlpreview.github.io/?https://github.com/satoru2001/Game-Development/blob/master/Roller_madness_Build/index.html">click here</a></b></p>
 <p>In this you will be chased by spawning enimies until you will reach the goal of collecting coins(spawning)</p>
 <p> Contains 2 levels </p>
 <p> Level 1 is a warm up level where you need to collect 5 coins</p>
@@ -12,7 +12,7 @@ This repository contains 2 games and 1 emulater(developed on unity) that I desig
 
 
 # Game 2(Box Shooter)
-<p><b>To play <a href = "#">click here</a></b></p>
+<p><b>To play <a href = "https://htmlpreview.github.io/?https://github.com/satoru2001/Game-Development/blob/master/Box_shooter_Build/index.html">click here</a></b></p>
 <p>It is a shooter game in which you will be placed in a confined space and need to shoot different shapes(moving) which will give you diffent poins, Add time,Remove time</p>
 <p> Contains 2 levels </p>
 <p> Level 1 is a warm up level where motion of objets are simple</p>
@@ -20,5 +20,5 @@ This repository contains 2 games and 1 emulater(developed on unity) that I desig
 
 
 # Simulation(Solor simulation)
-<p><b>To play <a href = "#">click here</a></b></p>
+<p><b>To play <a href = "https://htmlpreview.github.io/?https://github.com/satoru2001/Game-Development/blob/master/Solar_simulation_Build/index.html">click here</a></b></p>
 <p>It is a simple simulation of our solar system in which if you click on a planet you can see the system w.r.t its view,Sound enabled,distances are taken approximately with same ratio(except for pluto)</p>
